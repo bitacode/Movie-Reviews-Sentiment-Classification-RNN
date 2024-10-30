@@ -18,4 +18,4 @@ The RNN model achieved an overall accuracy of 63%. The model performs well in re
 
 ## Prospect
 
-RNN has limitations in handling long sequences due to the vanishing gradient problem, where information from earlier time steps is lost. However, there are other variants of RNN, such as [LSTM](https://github.com/bitacode/Movie-Reviews-Sentiment-Classification-LSTM.git) and GRU, that overcome this issue. Increasing the model complexity by adding more layers or incorporating an attention mechanism can further improve performance in sentiment analysis tasks.
+RNN has limitations in handling long sequences due to the vanishing gradient problem, where information from earlier time steps is lost. However, there are other variants of RNN, such as [LSTM](https://github.com/bitacode/Movie-Reviews-Sentiment-Classification-LSTM.git) and [GRU](https://github.com/bitacode/Movie-Reviews-Sentiment-Classification-GRU.git), that overcome this issue. Increasing the model complexity by adding more layers or incorporating an attention mechanism can further improve performance in sentiment analysis tasks.
